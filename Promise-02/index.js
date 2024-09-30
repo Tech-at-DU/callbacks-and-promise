@@ -18,5 +18,4 @@ function asyncNumberChecker(n) {
 
 asyncNumberChecker(10)
 
-
 asyncNumberChecker(5)

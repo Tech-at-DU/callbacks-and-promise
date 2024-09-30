@@ -1,7 +1,7 @@
 // Make a new Promise
 const p = new Promise((resolve, reject) => {
   setTimeout(() => {
-    // reject("--- Oops ---");
+    // reject("--- Oops ---"); 
     resolve('>>> Success! <<<');
   }, 2000);
 });
